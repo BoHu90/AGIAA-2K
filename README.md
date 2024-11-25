@@ -1,2 +1,4 @@
 # AGIAA-2K
-We plan to publish the AGIAA-2K dataset once the paper is officially accepted.
+A fine-grained dataset for Aesthetic and Alignment evaluation of AGIs. The paper has currently been submitted to ICASSP 2025. The dataset for this paper will be released here!!!
+
+![](AGIAA-2K_info.jpg) 
